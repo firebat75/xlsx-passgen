@@ -8,4 +8,4 @@ install openpyxl:
 `pip install openpyxl`
 
 run generator:
-`python3 xlsx-passgen.py'
+`python3 xlsx-passgen.py`
