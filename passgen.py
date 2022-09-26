@@ -11,10 +11,6 @@ import random
 workbook = Workbook()
 sheet = workbook.active
 
-# sheet["A1"] = "hello"
-# sheet["B1"] = "world"
-
-
 # create list of available chars
 for i in range(42, 57):
     CHARACTERS.append(chr(i))
